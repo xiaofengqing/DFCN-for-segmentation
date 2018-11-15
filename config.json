@@ -1,0 +1,16 @@
+{
+  "pascal":
+  {
+    "data_path": "/home/datasets/VOC2012/VOCdevkit/VOC2012/"
+  },
+
+  "Vaihingen":
+  {
+    "data_path": "/home/data/Vaihingen/"
+  },
+
+  "potsdam":
+  {
+    "data_path": "/home/data/Potsdam/"
+  }
+}
